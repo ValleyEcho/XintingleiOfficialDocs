@@ -1,8 +1,6 @@
 # 服内指令
 
 ### 常用指令
-* /register 注册密码
-* /login 登录
 * /home 传送至个人传送点
 * /homes 查看当前已设置的个人传送点
 * /sethome 设置个人传送点
@@ -18,7 +16,15 @@
 
 ### Carpet
 
-详见以下视频
+支持的carpet扩展：
+* Carpet TIS Addition
+* Carpet AMS Addition
+* Carpet Org Addition
+* Crystal Carpet Addition
+* Gugle Carpet Addition
+* Minitweaks
+
+基础用法详见以下视频
 
 Minecraft辅助性的终极模组——地毯！本期视频带你入门了解！！
 
