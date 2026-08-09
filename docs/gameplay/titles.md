@@ -1,6 +1,6 @@
 # 服内称号获取
 
-请先登录 [新亭泪用户中心](https://title.xintinglei.cn/)   
+请先登录 [新亭泪用户中心](https://center.xintinglei.cn/dashboard)   
 
 在账户中领取**积分**
 

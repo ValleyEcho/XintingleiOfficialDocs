@@ -12,8 +12,13 @@
 * /tpa 传送玩家
 
 ### All music
-* /music help 查看帮助
-
+```
+* /music search *歌名* 点歌
+```
+如果您想获得更多帮助以修改显示配置可以
+```
+ /music help 查看帮助
+```
 ### Carpet
 
 支持的carpet扩展：
@@ -23,6 +28,7 @@
 * Crystal Carpet Addition
 * Gugle Carpet Addition
 * Minitweaks
+* Carpet Extra
 
 基础用法详见以下视频
 
