@@ -5,15 +5,20 @@
 * /homes 查看当前已设置的个人传送点
 * /sethome 设置个人传送点
 * /delhome 删除个人传送点
-* /phome 传送至公共传送点
+* /phomes 传送至公共传送点
 * /homes 查看当前已设置的公共传送点
 * /psethome 设置公共传送点
 * /pdelhome 删除公共传送点
 * /tpa 传送玩家
 
 ### All music
-* /music help 查看帮助
-
+```
+* /music search *歌名* 点歌
+```
+如果您想获得更多帮助以修改显示配置可以
+```
+ /music help 查看帮助
+```
 ### Carpet
 
 支持的carpet扩展：
@@ -23,6 +28,7 @@
 * Crystal Carpet Addition
 * Gugle Carpet Addition
 * Minitweaks
+* Carpet Extra
 
 基础用法详见以下视频
 
