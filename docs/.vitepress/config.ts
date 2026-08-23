@@ -22,6 +22,7 @@ const sections = [
       { text: 'FCL入服教程', link: '/guide/fcl-mobile' },
       { text: 'Xintinglei客户端（Rosa_Tenuifolia 特调优化版）', link: '/guide/XintingleiClient-ver-Rosa' },
       { text: 'Rosa版 Mod 与资源包说明', link: '/guide/XintingleiClient-ver-Rosa-mods' },
+      { text: '周年庆活动', link: '/info/anniversary' }
     ]
   },
   {
