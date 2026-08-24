@@ -41,7 +41,7 @@
 /tfly activity
 /tfly activity detail
 ```
-其中 /tfly activity detail 可以查看自己的详细活跃度、各项统计分数、衰减结果、多样性系数和当前等级。
+其中 `/tfly activity detail `可以查看自己的详细活跃度、各项统计分数、衰减结果、多样性系数和当前等级。
 
 ## 二、计算流程：
 ### 1、原版数据加权计算
