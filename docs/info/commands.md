@@ -36,12 +36,12 @@
 ## 一、玩家命令  
 ```
 /tfly
-/tfly on
-/tfly off
-/tfly activity
-/tfly activity detail
+/tfly on 启用飞行
+/tfly off 关闭飞行
+/tfly activity 查看活跃度
+/tfly activity detail 查看具体活跃度
 ```
-其中 `/tfly activity detail `可以查看自己的详细活跃度、各项统计分数、衰减结果、多样性系数和当前等级。
+ `/tfly activity detail `可以查看自己的详细活跃度、各项统计分数、衰减结果、多样性系数和当前等级。
 
 ## 二、计算流程：
 ### 1、原版数据加权计算
