@@ -63,6 +63,9 @@ export default defineConfig({
   titleTemplate: false,
   title: '新亭泪',
   description: '新亭泪服务器官方文档',
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico', type: 'image/x-icon' }]
+  ],
   themeConfig: {
     search: {
       provider: 'local'
