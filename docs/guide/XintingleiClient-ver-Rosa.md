@@ -38,4 +38,4 @@ Xintinglei客户端是面向新亭泪生电服玩家整理的 Windows 整合包�
 
 - [Xintinglei客户端安装教程](/guide/xintinglei-client-installation)
 - [入服步骤](/guide/join-steps)
-- [生电服专属附魔玩法](/gameplay/centifolia-enchantments)
+- [生电服专属附魔玩法](/info/centifolia-enchantments)
